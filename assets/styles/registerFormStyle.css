@@ -1,0 +1,55 @@
+#registerForm{
+    margin-left: 25%;
+    float: left;
+    display: inline-grid;
+}
+
+#emptyDiv + h1{
+    color: brown;
+    font-family: "JetBrains Mono";
+    text-decoration: underline;
+    position: fixed;
+    text-align: center;
+    left: 43%;
+    top: -21px;
+
+
+}
+#instructions{
+    text-align: center;
+    margin-top: 10%;
+    font-weight: bold;
+}
+
+
+label{
+    color: black;
+    display: inline-block;
+    float: left;
+    clear: left;
+    width: 250px;
+    text-align: right;
+
+}
+#submit{
+    margin-top: 10%;
+    margin-left: 38%;
+    float: left;
+
+
+}
+.space-above{
+    padding: 5px 5px 5px 5px; /*top, right, bottom, left*/
+}
+
+body {
+    background-image: url("../images/5974689e-1607-4cb6-bae1-9ca7e79c8b2f.JPG");
+}
+#logo{
+    position: absolute;
+    margin-left: 100%;
+}
+
+
+
+
